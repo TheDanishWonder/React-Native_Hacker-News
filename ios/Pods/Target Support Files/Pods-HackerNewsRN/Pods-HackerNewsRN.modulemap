@@ -1,0 +1,6 @@
+module Pods_HackerNewsRN {
+  umbrella header "Pods-HackerNewsRN-umbrella.h"
+
+  export *
+  module * { export * }
+}
